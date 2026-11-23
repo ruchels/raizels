@@ -1,3 +1,5 @@
+Live View : https://raizels-portofolio.vercel.app
+
 # Portfolio — Ruchel Afwa Mabrur (Raizel)
 
 A cinematic, scroll-driven personal portfolio built on Next.js 16 (App Router), React 19, Tailwind CSS v4, GSAP ScrollTrigger, Framer Motion, Lenis smooth-scroll, Three.js / Spline, and a handful of custom WebGL shaders. Designed to read like an editorial spread on desktop and to keep its rhythm intact on mobile, with every section choreographed against a single scroll timeline.
