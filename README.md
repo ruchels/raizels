@@ -1,4 +1,4 @@
-Live View : https://raizels-portofolio.vercel.app
+Live View : https://ruchels-portofolio.vercel.app
 
 # Portfolio — Ruchel Afwa Mabrur (Raizel)
 
